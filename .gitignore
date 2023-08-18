@@ -2,6 +2,7 @@
 /content
 /static/images
 .vscode
+.vscode/settings.json
 
 ### Hugo ###
 # Generated files by hugo
